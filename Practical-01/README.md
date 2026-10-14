@@ -1,8 +1,11 @@
-# Practical 01 – Photoshop Basic Tools
+# Practical 01 — Geometric Photoshop Basic Tools
 
-Name: Trisha Mukherjee
-Roll Number: 253026229
-Course: BCA
+**Name:** Trisha Mukherjee  
+**Roll:** 253026229  
+**Course:** BCA
 
-Objective: To understand the Photoshop interface
-and practice basic editing tools.
+## Art and format
+The PSD uses the exact same supplied Firefly image as the final JPG/PNG, with independently addressable raster regions on separate, named PSD layers. These layers are reconstructive regions cut from the visual, not independently drawn Photoshop shapes or native text.
+
+## Important limitation
+This is an exact-appearance layered PSD reconstruction, not evidence that the full original image was constructed with Photoshop tools. Native editable text, adjustment layers, layer masks, native filters and custom brushes were not reconstructed. Those technique requirements remain unfulfilled when specifically requested by the assignment.
